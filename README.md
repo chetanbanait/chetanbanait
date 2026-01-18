@@ -2,7 +2,6 @@
 I am Chetan Kailas Banait, an MCA graduate and aspiring SQL & Java Developer.<br> I have hands-on experience in SQL, Core Java, MySQL, and JDBC, along with internship experience as a SQL Developer Trainee. <br>I am a quick learner, problem solver, and motivated to grow as a backend professional.
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chetan-banait-007897218/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetanbanait30@gmail.com) 
 
