@@ -1,5 +1,4 @@
 
-
 # 💫 About Me:
 I am Chetan Kailas Banait, an MCA graduate and aspiring SQL & Java Developer.<br> I have hands-on experience in SQL, Core Java, Oracle, and JDBC, along with internship experience as a SQL Developer Trainee. <br>I am a quick learner, problem solver, and motivated to grow as a backend professional.
 
